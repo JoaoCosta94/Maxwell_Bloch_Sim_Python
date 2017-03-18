@@ -1,0 +1,10 @@
+# Pycharm Files
+.idea/*
+
+# Windows Files
+*.db
+
+# Image Results
+*.png
+*.jpg
+*.pyc
